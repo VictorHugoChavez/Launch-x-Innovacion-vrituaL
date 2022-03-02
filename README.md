@@ -1,7 +1,7 @@
 # Launch-x-Innovacion-vrituaL
 ACTIVIDAD 1
 
-Aqui se encontraran con los archivos de la primera actividad de Launch-x
+Aqui se encontraran con los archivos de la primera actividad de Launch-x, se encuentra aqui todos los archivos que se trabajaron
 
 # 1.Fase de requerimientos
 
@@ -38,7 +38,6 @@ Se comparte el link de mi diseño en figma
 https://www.figma.com/file/8KmpkmE3Cp6eQZQL8QcfGx/ABOGABOT?node-id=0%3A1
 
 ![image](https://user-images.githubusercontent.com/96146923/156118467-2e65912e-ceab-476e-af75-f8d579388893.png)
-
 
 
 
