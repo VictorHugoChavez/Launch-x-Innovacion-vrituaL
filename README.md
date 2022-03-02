@@ -14,6 +14,8 @@ Se encontrara en parte un word llamado 1.-Requerimientos
 Se encontra un pdf desarrollado por mi y mis datos donde me pondran encontrar como persona, ademas de que se crea un formulario en google forms para 
 crear dichos archivos conforme a los clientes
 
+Dejo el google forms 
+https://docs.google.com/forms/d/e/1FAIpQLSci_RTSJRm_MaMpcI8Lf8ywfkJJVClJIHw7fO6Hrz8KNtQiZg/viewform
 
 ![image](https://user-images.githubusercontent.com/96146923/156116493-ff7406e7-a17e-4faf-a484-00f2126717bb.png)
 
@@ -30,7 +32,10 @@ Se realiza el diseño de ux en balsamiq, poniendo las ideas en general
 
 # 5. ABOGABOT FIGMA
 
-Se realiza el diseño de UI en figma utilizando colores, tmañaos y formas
+Se realiza el diseño de UI en figma utilizando colores, tamaños y formas
+Se comparte el link de mi diseño en figma
+
+https://www.figma.com/file/8KmpkmE3Cp6eQZQL8QcfGx/ABOGABOT?node-id=0%3A1
 
 ![image](https://user-images.githubusercontent.com/96146923/156118467-2e65912e-ceab-476e-af75-f8d579388893.png)
 
